@@ -1,6 +1,6 @@
 # 变量命名法则
 
- ** Meaningful Names **
+ **Meaningful Names**
 
 
 ### Good Gay
@@ -58,7 +58,7 @@
 14. 使用源自所涉及问题领域的名称
 15. 添加有意义的语境 ~~firstName~~ ~~lastName~~ ~~houseNumber~~, ~~state~~,  addrFirstName, addrLastName.
 
-** 取名字最难的地方在于需要良好的描述技巧和共有文化背景，与其说是一种技术,商业，管理的问题， 不如说时一种教学问题。
+**取名字最难的地方在于需要良好的描述技巧和共有文化背景，与其说是一种技术,商业，管理的问题， 不如说时一种教学问题。**
 
 ### Bad Gay
 
