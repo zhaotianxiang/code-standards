@@ -1,6 +1,6 @@
 # Clean code
 
-> 读《代码整洁之道》有感
+### 《整洁代码》总结
 
 1. Reading more than writing: when you are working in a mature system, you may spend more time reading code than writing new code, since a lot of things has already been implemented before and you just need to know their existence and how to use them correctly. From another perspective, the code you write will also be read and used by other people. So it is very important to write code that are easy to read, **reuse and enlarge**.
 
@@ -12,7 +12,7 @@
 
 5. Abstraction level of names: the names of the class, variables and methods should describe the things to an appropriate abstraction level. You can explain the method in human language, like making a summary of the things the method does. Then the summary will be the name of the method. When making a summary, you won’t be interrupted by the details of implementations. But rather it is like describing the chain of purposes and outcomes. The name of the method should tell the user what he can expect for the outcome and also conditions of usage(which are what a user cares about). But not the specific implementation details. When the system is huge, you don’t require everyone knows everything in order to make the system running. Responsibilities should be separated and encapsulated. When a user uses your method, he doesn’t care about the implementation. He only needs to care about what goal can this method achieve for him, and if there are some important conditions of usage(or side effects) he needs to know in order to call the right method. So these two things should be expressed in the method name.
 
-6.Small method: a method should do one and only one thing. only when this is fulfilled, can we find reasonable length expressive name for the method. If a method does too many things, it is hard to find a short summary for it. When you describe what your method do, try to break the logic down when a deeper level of abstraction is needed(more specific implementation details). That’s when another method should be created.
+6. Small method: a method should do one and only one thing. only when this is fulfilled, can we find reasonable length expressive name for the method. If a method does too many things, it is hard to find a short summary for it. When you describe what your method do, try to break the logic down when a deeper level of abstraction is needed(more specific implementation details). That’s when another method should be created.
 
 7. Only one level of abstraction down in the method implementation: each method should contains the code that is only one level down (one level more specific than) the name of the method(the summary of the method). Further level down should be put into another method that is called by this method.
 
