@@ -9,7 +9,7 @@
 4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/error.md)
 
 
-### 《整洁代码》概述
+### 整洁代码概述
 
 1. Reading more than writing: when you are working in a mature system, you may spend more time reading code than writing new code, since a lot of things has already been implemented before and you just need to know their existence and how to use them correctly. From another perspective, the code you write will also be read and used by other people. So it is very important to write code that are easy to read, **reuse and enlarge**.
 
@@ -57,6 +57,6 @@
 ...
 
 ### 参考
-[知乎回答-关于《代码整洁之道》问题、看法和疑问？](https://www.zhihu.com/question/27603872)
+1. [知乎回答-关于《代码整洁之道》问题、看法和疑问？](https://www.zhihu.com/question/27603872)
 <br/>
-[JavaScript 规范](https://github.com/alivebao/clean-code-js#%E4%BB%8B%E7%BB%8D)
+2. [JavaScript 规范](https://github.com/alivebao/clean-code-js#%E4%BB%8B%E7%BB%8D)
