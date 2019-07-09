@@ -12,5 +12,12 @@
 
 ...
 
+### 目录
+
+1. [变量的命名](https://github.com/zhaotianxiang/code-standards/blob/master/name.md)
+2. [函数的写法](https://github.com/zhaotianxiang/code-standards/blob/master/function.md)
+3. [注释的写法](https://github.com/zhaotianxiang/code-standards/blob/master/comments.md)
+4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/error.md)
+
 ### reference
 [知乎回答](https://www.zhihu.com/question/27603872)
