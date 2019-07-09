@@ -1,5 +1,14 @@
 # Clean code
 
+
+### 读书简记
+
+1. [变量的命名](https://github.com/zhaotianxiang/code-standards/blob/master/name.md)
+2. [函数的写法](https://github.com/zhaotianxiang/code-standards/blob/master/function.md)
+3. [注释的写法](https://github.com/zhaotianxiang/code-standards/blob/master/comments.md)
+4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/error.md)
+
+
 ### 《整洁代码》概述
 
 1. Reading more than writing: when you are working in a mature system, you may spend more time reading code than writing new code, since a lot of things has already been implemented before and you just need to know their existence and how to use them correctly. From another perspective, the code you write will also be read and used by other people. So it is very important to write code that are easy to read, **reuse and enlarge**.
@@ -47,14 +56,7 @@
 22. Boundary management between my code and other people’s code: A big project is divided into several parts for different people to work on individually first and combine later. Without having their implementations done, you can define boundary encapsulation APIs that define your wanted input and output. What those encapsulation APIs really reflect and represent is your need and purpose, which should be satisfied in order to make the system work no matter what. Instead of directly using other people’s APIs and let them diffuse into your own code, you encapsulate their APIs into your boundary encapsulators. Only your boundary encapsulators diffuse into your own code. In this way, if other people decide to change the format of their APIs, the only part of your code that needs to change accordingly is the boundary encapsulators. See chapter 8 P119.
 ...
 
-### 读书简记
-
-1. [变量的命名](https://github.com/zhaotianxiang/code-standards/blob/master/name.md)
-2. [函数的写法](https://github.com/zhaotianxiang/code-standards/blob/master/function.md)
-3. [注释的写法](https://github.com/zhaotianxiang/code-standards/blob/master/comments.md)
-4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/error.md)
-5. [测试]()
-
 ### 参考
 [知乎回答-关于《代码整洁之道》问题、看法和疑问？](https://www.zhihu.com/question/27603872)
+<br/>
 [JavaScript 规范](https://github.com/alivebao/clean-code-js#%E4%BB%8B%E7%BB%8D)
