@@ -1,5 +1,6 @@
 # Clean code
 
+**作者: Robert C. Martind 《代码整洁之道》**
 
 ### 读书简记
 
