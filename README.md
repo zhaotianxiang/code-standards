@@ -57,3 +57,4 @@
 
 ### 参考
 [知乎回答-关于《代码整洁之道》问题、看法和疑问？](https://www.zhihu.com/question/27603872)
+[JavaScript 规范](https://github.com/alivebao/clean-code-js#%E4%BB%8B%E7%BB%8D)
