@@ -54,5 +54,5 @@
 3. [注释的写法](https://github.com/zhaotianxiang/code-standards/blob/master/comments.md)
 4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/error.md)
 
-### reference
+### 参考
 [知乎回答](https://www.zhihu.com/question/27603872)
