@@ -6,10 +6,10 @@
 
 ### 读书简记
 
-1. [变量的命名](https://github.com/zhaotianxiang/code-standards/blob/master/name.md)
-2. [函数的写法](https://github.com/zhaotianxiang/code-standards/blob/master/function.md)
-3. [注释的写法](https://github.com/zhaotianxiang/code-standards/blob/master/comments.md)
-4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/error.md)
+1. [变量的命名](https://github.com/zhaotianxiang/code-standards/blob/master/doc/name.md)
+2. [函数的写法](https://github.com/zhaotianxiang/code-standards/blob/master/doc/function.md)
+3. [注释的写法](https://github.com/zhaotianxiang/code-standards/blob/master/doc/comments.md)
+4. [错误处理](https://github.com/zhaotianxiang/code-standards/blob/master/doc/error.md)
 
 
 ### 整洁代码概述
